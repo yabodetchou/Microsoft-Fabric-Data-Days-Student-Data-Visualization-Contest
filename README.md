@@ -16,7 +16,6 @@ This report provides a comprehensive analysis to help students and families eval
 
 ### 1. College Finder Dashboard Page 
 
-<img width="805" height="442" alt="Screenshot 2025-11-08 at 7 12 56 PM" src="https://github.com/user-attachments/assets/f3502d4e-1fae-40b3-8560-8b9c856a2109" />
 
 This page provides the initial filtering metrics and shows the overall landscape of the available colleges:
 
@@ -30,7 +29,6 @@ This page provides the initial filtering metrics and shows the overall landscape
 
 
 ### 2. ROI & Career Outcomes Page
-<img width="574" height="440" alt="Screenshot 2025-11-08 at 7 13 32 PM" src="https://github.com/user-attachments/assets/037f5453-f33e-4fcd-851c-7f79d83e4936" />
 
 This page focuses on the economic return of an education, comparing cost versus future earnings:
 
@@ -42,7 +40,6 @@ This page focuses on the economic return of an education, comparing cost versus 
 
 
 ### 3. Student Life & Vibe Check Page 
-<img width="652" height="366" alt="Screenshot 2025-11-08 at 7 14 00 PM" src="https://github.com/user-attachments/assets/d27b1f0b-afa7-4b27-909b-ea03580c450d" />
 
 This page quantifies non-academic metrics that define the campus experience:
 
