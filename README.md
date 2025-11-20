@@ -9,6 +9,9 @@ https://app.powerbi.com/reportEmbed?reportId=d3779205-b1a8-4a7a-b81a-6efef44c747
 ## Goal
 This report provides a comprehensive analysis to help students and families evaluate colleges based on ROI (Return on Investment), career outcomes, and student life factors.
 
+<img width="1042" height="727" alt="Screenshot 2025-11-20 at 2 02 19 PM" src="https://github.com/user-attachments/assets/5efef345-328e-4d9d-bd6e-d28a4fd5492e" />
+
+
 ## Findings
 
 ### 1. College Finder Dashboard Page 
