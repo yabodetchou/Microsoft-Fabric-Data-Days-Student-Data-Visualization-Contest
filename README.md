@@ -4,7 +4,7 @@
 
 
 ## Live Report:
-<iframe title="contez" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d3779205-b1a8-4a7a-b81a-6efef44c7476&autoAuth=true&ctid..." frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=d3779205-b1a8-4a7a-b81a-6efef44c7476&autoAuth=true&ctid=3664e6fa-47bd-45a6-9670-8c4f080f8ca6
 
 ## Goal
 This report provides a comprehensive analysis to help students and families evaluate colleges based on ROI (Return on Investment), career outcomes, and student life factors.
@@ -48,5 +48,8 @@ This page quantifies non-academic metrics that define the campus experience:
 * Social Engagement: The number of available Clubs and Organizations varies from a low of 18 at one institution to a high of 45 at Stormwind Academy, indicating diverse levels of student engagement.
 
 * Facilities and Support: Silverleaf University of Healing (C003) boasts top-tier ratings, with perfect 5.0 scores for both Housing Quality and Facilities Rating, along with a high 4.9 Overall Happiness score.
+
+## Contest
+https://community.fabric.microsoft.com/t5/Contests-Gallery/Fabric-Data-Days-Student-Dataviz-Data-Story/td-p/4881432
 
 
