@@ -4,7 +4,7 @@
 
 
 ## Live Report:
-Power BI Report Link: https://app.powerbi.com/links/xzq0E-0Lrj?ctid=3664e6fa-47bd-45a6-9670-8c4f080f8ca6&pbi_source=linkShare
+<iframe title="contez" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d3779205-b1a8-4a7a-b81a-6efef44c7476&autoAuth=true&ctid..." frameborder="0" allowFullScreen="true"></iframe>
 
 ## Goal
 This report provides a comprehensive analysis to help students and families evaluate colleges based on ROI (Return on Investment), career outcomes, and student life factors.
